@@ -1,0 +1,62 @@
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+D:\ferranovaV\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\ferranovaVenta\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.sourcelink.json
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CopyComplete
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.deps.json
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.dll
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.dll
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net7.0\SistemaVenta.Model.pdb
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.AssemblyInfo.cs
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.sourcelink.json
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaV.EE7A9206.Up2Date
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.dll
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\refint\SistemaVenta.DAL.dll
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\SistemaVenta.DAL.pdb
+D:\4to semestre\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net7.0\ref\SistemaVenta.DAL.dll

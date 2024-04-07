@@ -1,0 +1,3 @@
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DTO\bin\Release\net7.0\publish\SistemaVenta.DTO.dll
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DTO\bin\Release\net7.0\publish\SistemaVenta.DTO.deps.json
+D:\GITHUB\VentasFerranova\APISistemaVenta\SistemaVenta.DTO\bin\Release\net7.0\publish\SistemaVenta.DTO.pdb
